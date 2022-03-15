@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ASUS TUF GAMING/CLionProjects/LR5c/sort/sort.c
+sort.h
+C:/Users/ASUS TUF GAMING/CLionProjects/LR5c/sort/sort.h
+
+C:/Users/ASUS TUF GAMING/CLionProjects/LR5c/sort/sort.h
+
+C:/Users/ASUS TUF GAMING/CLionProjects/LR5c/sort/time_test/time_test.c
+time_test.h
+C:/Users/ASUS TUF GAMING/CLionProjects/LR5c/sort/time_test/time_test.h
+
+C:/Users/ASUS TUF GAMING/CLionProjects/LR5c/sort/time_test/time_test.h
+

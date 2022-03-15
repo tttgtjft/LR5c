@@ -1,0 +1,4 @@
+C:/Users/ASUS TUF GAMING/CLionProjects/LR5c/cmake-build-debug/CMakeFiles/LR5c.dir
+C:/Users/ASUS TUF GAMING/CLionProjects/LR5c/cmake-build-debug/CMakeFiles/sort.dir
+C:/Users/ASUS TUF GAMING/CLionProjects/LR5c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS TUF GAMING/CLionProjects/LR5c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
