@@ -1,8 +1,7 @@
-#include <stdio.h>
 #include "sort/time_test/time_test.h"
 
 int main() {
-    timeExperiment();
+    countComparisonOperationsExperiment();
 
     return 0;
 }

@@ -5,18 +5,6 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-#define ARRAY_SIZE(a) sizeof(a) / sizeof(a[0])
-
-typedef struct SortFunc{
-    void (*sort)(int *a, size_t n);
-    char name[64];
-} SortFunc;
-
-typedef struct GenerationFunc{
-    void (*generate)(int *a, size_t n);
-    char name[64];
-} GenerationFunc;
-
 void bubbleSort(int *arr, size_t size);
 
 void insertionSort(int *arr, size_t size);
@@ -28,5 +16,17 @@ void combsort(int *arr, size_t size);
 void shellSort(int *arr, size_t size);
 
 void radixSort(int *arr, size_t size);
+
+long long getBubbleSortNComp(int *a, size_t n);
+
+long long getSelectionSortNComp(int *a, size_t n);
+
+long long getInsertionSortNComp(int *a, size_t n);
+
+long long getCombSortNComp(int *a, size_t n);
+
+long long getShellSortNComp(int *a, size_t n);
+
+long long getRadixSortNComps(int *a, size_t n);
 
 #endif
